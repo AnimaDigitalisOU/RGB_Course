@@ -1,4 +1,6 @@
-/Logs
+.Logs/
 *.log
-/Debug
+.Debug/
+*.logs
+.vs/
 
