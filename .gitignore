@@ -3,4 +3,8 @@
 .Debug/
 *.logs
 .vs/
-
+.Temp/
+.vscode/
+*.hash
+*.temp
+*.logs
